@@ -157,3 +157,5 @@ Validate on FPGA
 Compare FPGA outputs against the trusted software reference.
 
 
+https://chatgpt.com/share/6acf0aa6-7370-83ee-bd31-76252127bd5e?ogimg=plain
+
